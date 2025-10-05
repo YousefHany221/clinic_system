@@ -1,8 +1,7 @@
+
 <body>
     <div class="page-wrapper">
-
-        <div class="container">
-            <?php include "./layout/nav.php"; ?>
+    
             <div class="d-flex flex-column gap-3 account-form mx-auto mt-5">
                 <form class="form">
                     <div class="form-items">
@@ -34,10 +33,6 @@
         </div>
     </div>
 
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js"
-        integrity="sha512-fHY2UiQlipUq0dEabSM4s+phmn+bcxSYzXP4vAXItBvBHU7zAM/mkhCZjtBEIJexhOMzZbgFlPLuErlJF2b+0g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </body>
 
 </html>

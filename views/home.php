@@ -1,17 +1,17 @@
-<!-- heder -->
-<?php include "./layout/header.php"; ?>
-<!-- heder -->
+<!-- header -->
+
+<!-- header -->
 
 <body>
     <div class="page-wrapper">
         <!-- nav -->
-        <?php include "./layout/nav.php"; ?>
+
         <!-- nav -->
         <div class="container-fluid bg-blue text-white pt-3">
             <div class="container pb-5">
                 <div class="row gap-2">
                     <div class="col-sm order-sm-2">
-                        <img src="assets/images/banner.jpg" class="img-fluid banner-img banner-img" alt="banner-image"
+                        <img src="./views/assets/images/banner.jpg" class="img-fluid banner-img banner-img" alt="banner-image"
                             height="200">
                     </div>
                     <div class="col-sm order-sm-1">
@@ -32,67 +32,67 @@
             <h2 class="h1 fw-bold text-center my-4">majors</h2>
             <div class="d-flex flex-wrap gap-4 justify-content-center">
                 <div class="card p-2" style="width: 18rem;">
-                    <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                    <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="./index.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
-                    <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                    <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="./index.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
-                    <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                    <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="./index.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
-                    <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                    <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="./index.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
-                    <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                    <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="./index.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
-                    <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                    <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="./index.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
-                    <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                    <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="./index.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
                 <div class="card p-2" style="width: 18rem;">
-                    <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                    <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                         alt="major">
                     <div class="card-body d-flex flex-column gap-1 justify-content-center">
                         <h4 class="card-title fw-bold text-center">Major title</h4>
-                        <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse Doctors</a>
+                        <a href="./index.php?page=doctors" class="btn btn-outline-primary card-button">Browse Doctors</a>
                     </div>
                 </div>
             </div>
@@ -102,96 +102,96 @@
                     <ul class="splide__list">
                         <li class="splide__slide">
                             <div class="card p-2" style="width: 18rem;">
-                                <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                                <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                                     alt="major">
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="./index.php?page=doctor" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
                         </li>
                         <li class="splide__slide">
                             <div class="card p-2" style="width: 18rem;">
-                                <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                                <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                                     alt="major">
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="./index.php?page=doctor" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
                         </li>
                         <li class="splide__slide">
                             <div class="card p-2" style="width: 18rem;">
-                                <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                                <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                                     alt="major">
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/index.html" class="btn btn-outline-primary card-button">Browse
+                                    <a href="./index.php?page=doctors" class="btn btn-outline-primary card-button">Browse
                                         Doctors</a>
                                 </div>
                             </div>
                         </li>
                         <li class="splide__slide">
                             <div class="card p-2" style="width: 18rem;">
-                                <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                                <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                                     alt="major">
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="./index.php?page=doctor" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
                         </li>
                         <li class="splide__slide">
                             <div class="card p-2" style="width: 18rem;">
-                                <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                                <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                                     alt="major">
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="./index.php?page=doctor" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
                         </li>
                         <li class="splide__slide">
                             <div class="card p-2" style="width: 18rem;">
-                                <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                                <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                                     alt="major">
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="./index.php?page=doctor" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
                         </li>
                         <li class="splide__slide">
                             <div class="card p-2" style="width: 18rem;">
-                                <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                                <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                                     alt="major">
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="./index.php?page=doctor" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
                         </li>
                         <li class="splide__slide">
                             <div class="card p-2" style="width: 18rem;">
-                                <img src="assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
+                                <img src="views/assets/images/major.jpg" class="card-img-top rounded-circle card-image-circle"
                                     alt="major">
                                 <div class="card-body d-flex flex-column gap-1 justify-content-center">
                                     <h4 class="card-title fw-bold text-center">Doctor Name</h4>
                                     <h6 class="card-title fw-bold text-center">Major</h6>
-                                    <a href="./doctors/doctor.html" class="btn btn-outline-primary card-button">Book an
+                                    <a href="./index.php?page=doctor" class="btn btn-outline-primary card-button">Book an
                                         appointment</a>
                                 </div>
                             </div>
@@ -272,17 +272,16 @@
                 </div>
             </div>
             <div class="bottom--right bg-blue text-white">
-                <img src="assets/images/banner.jpg" class="img-fluid banner-img">
+                <img src="views/assets/images/banner.jpg" class="img-fluid banner-img">
             </div>
         </div>
     </div>
-    <!-- footer  -->
-    <?php include "./layout/footer.php"; ?>
     <!-- footer -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js"
-        integrity="sha512-fHY2UiQlipUq0dEabSM4s+phmn+bcxSYzXP4vAXItBvBHU7zAM/mkhCZjtBEIJexhOMzZbgFlPLuErlJF2b+0g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="assets/scripts/home.js"></script>
+
+    <!-- footer -->
+
+
+
 </body>
 
 </html>

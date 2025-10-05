@@ -1,14 +1,7 @@
 
 <body>
     <div class="page-wrapper">
-        <?php include "./layout/nav.php"; ?>
-        <div class="container">
-            <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb" class="fw-bold my-4 h4">
-                <ol class="breadcrumb justify-content-center">
-                    <li class="breadcrumb-item"><a class="text-decoration-none" href="../index.html">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">history</li>
-                </ol>
-            </nav>
+       
             <table class="table">
                 <thead>
                     <tr>
@@ -58,11 +51,8 @@
             </table>
         </div>
     </div>
-    <?php include "./layout/footer.php"; ?>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.1/js/bootstrap.min.js"
-        integrity="sha512-fHY2UiQlipUq0dEabSM4s+phmn+bcxSYzXP4vAXItBvBHU7zAM/mkhCZjtBEIJexhOMzZbgFlPLuErlJF2b+0g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  
 </body>
 
 </html>
