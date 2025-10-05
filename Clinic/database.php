@@ -3,6 +3,7 @@ include __DIR__ . '/../config/database.php';
 
 class Database
 {
+    // alkfjakljfklaj;flkaj;lfkjd;alkfjasd;lkfa;jl
     private static ?Database $instance = null;
     private PDO $connection;
 
